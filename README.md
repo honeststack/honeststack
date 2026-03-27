@@ -1,14 +1,9 @@
 <!-- ==================== HERO SECTION ==================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi%2C%20I'm%20Gyo%20Zuibun!;Senior%20Full%20Stack%20AI%20Engineer;Building%20production-grade%20AI%20agents%20%26%20full-stack%20systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi%2C%20I';Senior%20Full%20Stack%20AI%20Engineer;Building%20production-grade%20AI%20agents%20%26%20full-stack%20systems" alt="Typing SVG" />
   
   <h3>Full Stack + AI Engineer • 7+ years crafting scalable ML/LLM systems</h3>
   
-  <p>
-    <strong>San Francisco, CA, USA</strong> • 
-    <a href="tel:+13052911630">+1 (305) 291-1630</a> • 
-  </p>
-
   <img src="https://komarev.com/ghpvc/?username=honeststack&label=Profile%20Views&color=00D4FF&style=for-the-badge" alt="Profile views" />
 </div>
 
