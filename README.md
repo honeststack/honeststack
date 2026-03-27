@@ -6,9 +6,7 @@
   
   <p>
     <strong>San Francisco, CA, USA</strong> • 
-    <a href="mailto:gyozuibun@outlook.com">gyozuibun@outlook.com</a> • 
     <a href="tel:+13052911630">+1 (305) 291-1630</a> • 
-    <a href="https://linkedin.com/in/zuibun-gyo-a645923b0">LinkedIn</a>
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=honeststack&label=Profile%20Views&color=00D4FF&style=for-the-badge" alt="Profile views" />
@@ -62,17 +60,6 @@ Specialized in **LLMs, NLP, AI agents, and automation**. I design and ship **pro
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=honeststack&show_icons=true&theme=radical&hide_border=true&hide_title=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=honeststack&theme=radical&hide_border=true" alt="Streak Stats" height="165" />
-</div>
-
-*(Real-time stats – updated automatically)*
-
----
-
 ## 🔥 Key Achievements & Impact
 
 ### Parano.ai (Feb 2024 – Mar 2026) – Full-Stack AI Engineer (Remote)
@@ -101,19 +88,6 @@ Specialized in **LLMs, NLP, AI agents, and automation**. I design and ship **pro
 - RAG pipelines with Pinecone + pgvector
 - Next.js 15 + FastAPI production architectures
 - AI-powered dashboards and automation tools
-
-*(Go to my profile → "Customize pins" to see the latest)*
-
----
-
-## 📫 Let's Connect & Collaborate
-
-- **Email**: [gyozuibun@outlook.com](mailto:gyozuibun@outlook.com)
-- **Phone**: [+1 (305) 291-1630](tel:+13052911630)
-- **LinkedIn**: [linkedin.com/in/zuibun-gyo-a645923b0](https://linkedin.com/in/zuibun-gyo-a645923b0)
-- **Location**: San Francisco, CA (open to relocation or remote)
-
----
 
 <div align="center">
   <p><strong>Thanks for visiting my profile ✨</strong></p>
