@@ -18,7 +18,7 @@ Specialized in **LLMs, NLP, AI agents, and automation**. I design and ship **pro
 
 - 🔭 Currently focused on **agentic AI systems** (LangGraph + CrewAI + RAG) that deliver measurable business impact
 - 🌱 Deep expertise turning complex AI capabilities into clean, maintainable, and scalable products
-- 💼 Actively open to **full-time Senior/Staff Full Stack AI Engineer roles** in San Francisco or remote
+- 💼 Actively open to **full-time Senior/Staff Full Stack AI Engineer roles** in Singapore or remote
 - 📍 Based in San Francisco • Fluent in English & Japanese
 
 ---
@@ -53,36 +53,6 @@ Specialized in **LLMs, NLP, AI agents, and automation**. I design and ship **pro
 
 **Vercel • Databricks • EC2 • S3 • Lambda • MQTT • CI/CD**
 
----
-
-## 🔥 Key Achievements & Impact
-
-### Parano.ai (Feb 2024 – Mar 2026) – Full-Stack AI Engineer (Remote)
-- Architected **production full-stack platform** using **Next.js 15 + TypeScript + shadcn**, **FastAPI/Python**, Docker + Vercel CI/CD
-- Built **core agentic AI layer** with **LangGraph + CrewAI + Pinecone RAG** → delivered live importance scoring, contextual explanations, weekly digests, and real examples
-- Reduced **alert fatigue by 78%** while shipping sub-5s alerts, visual side-by-side diffs, and GDPR-compliant Slack/Teams integration
-- Helped position Parano.ai as a leader in the **$1B+ agentic CI market**
-
-### ClimateAI, Inc. (May 2021 – Dec 2023) – Full-Stack AI Engineer (Hybrid, SF)
-- Delivered **production-grade UIs** with React + TypeScript for real-time geospatial data visualization
-- Designed scalable backend services (**FastAPI + Node.js**) for data ingestion and high-throughput ML model serving
-- Productionized **GenAI/ML pipelines** on **Databricks + AWS** (EC2, S3, Lambda) handling large-scale climate datasets
-
-### DT42 AI Solution (May 2019 – Feb 2021) – Full-Stack Engineer (Onsite, Taipei)
-- Built full-stack solutions with **Python backend + JavaScript frontend**
-- Implemented high-performance **MQTT pub/sub** layers (Node.js + Python)
-- Delivered GitHub contributions including Shell/Python utilities and CI pipelines
-
----
-
-## 📌 Featured Work
-**My best production projects are under NDA** (IP-protected), but you can see my **public contributions and open-source experiments** in the pinned repositories below.
-
-**I actively pin repos** that showcase:
-- Full end-to-end LLM agent systems
-- RAG pipelines with Pinecone + pgvector
-- Next.js 15 + FastAPI production architectures
-- AI-powered dashboards and automation tools
 
 <div align="center">
   <p><strong>Thanks for visiting my profile ✨</strong></p>
