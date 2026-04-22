@@ -18,7 +18,7 @@ Specialized in **LLMs, NLP, AI agents, and automation**. I design and ship **pro
 
 - 🔭 Currently focused on **agentic AI systems** (LangGraph + CrewAI + RAG) that deliver measurable business impact
 - 🌱 Deep expertise turning complex AI capabilities into clean, maintainable, and scalable products
-- 💼 Actively open to **full-time Senior/Staff Full Stack AI Engineer roles** in Singapore or remote
+- 💼 Actively open to **full-time Senior/Staff Full Stack AI Engineer roles**
 - 📍 Based in San Francisco • Fluent in English & Japanese
 
 ---
