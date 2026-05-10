@@ -35,6 +35,3 @@ Webのフロントからバックエンド、インフラまで全部触っち�
 
 何か一緒に作ってみたいアイデアあったら、気軽に声かけてね〜！  
 「これどう思う？」ってDMくれるとめっちゃ嬉しいぜ(´・ω・`)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_title=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername
