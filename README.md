@@ -1,61 +1,40 @@
-<!-- ==================== HERO SECTION ==================== -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Hello%2C%20Sir!;Senior%20Full%20Stack%20AI%20Engineer;Building%20production-grade%20AI%20agents%20%26%20full-stack%20systems" alt="Typing SVG" />
-  
-  <h3>Full Stack + AI Engineer • 7+ years crafting scalable ML/LLM systems</h3>
-  
-  <img src="https://komarev.com/ghpvc/?username=honeststack&label=Profile%20Views&color=00D4FF&style=for-the-badge" alt="Profile views" />
-</div>
+# Hello！ 👋
+
+Webのフロントからバックエンド、インフラまで全部触っちゃうタイプのエンジニアだぜ！  
+スタートアップの現場とか個人開発で毎日コード書いてるよ。コーヒー片手にバグと戦うのが生きがいw
 
 ---
 
-<!-- ==================== ABOUT / PITCH ==================== -->
-## 🚀 About Me
+### 最近めっちゃハマってる技術 🔥
+- **Next.js + TypeScript** で爆速開発
+- クリーンコードと型安全にこだわってる
 
-**Senior Full Stack AI Engineer** with **7+ years** of experience building **scalable ML and deep learning systems**. 
+### 俺のスキルセット 💪
+**Frontend**
+- React / Next.js / Vue.js
+- TypeScript / Tailwind CSS / shadcn/ui
+- デザインもちょっかい出す派
 
-Specialized in **LLMs, NLP, AI agents, and automation**. I design and ship **production-ready end-to-end applications** (React/Next.js + FastAPI/Python + Node.js) that combine robust full-stack architecture with cutting-edge AI intelligence.
+**Backend**
+- Node.js（NestJS / tRPC）
+- Python（FastAPI / Django）
+- Go
+- Ruby言語も最近勉強中
 
-- 🔭 Currently focused on **agentic AI systems** (LangGraph + CrewAI + RAG) that deliver measurable business impact
-- 🌱 Deep expertise turning complex AI capabilities into clean, maintainable, and scalable products
-- 💼 Actively open to **full-time Senior/Staff Full Stack AI Engineer roles**
-- 📍 Based in San Francisco • Fluent in English & Japanese
+**その他**
+- PostgreSQL / Prisma / Drizzle
+- AWS / Vercel / Docker / Kubernetes
+- GitHub ActionsでCI/CD自動化
 
 ---
 
-## 🛠️ Tech Stack
+### 好きなこと（オフタイムも） ☕
+- 夜中にコード書いて朝まで寝ないやつ
+- 温泉旅行（開発後のご褒美）
+- 誰かと一緒に面白いプロダクト作ること！
 
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=vercel&logoColor=white)
+何か一緒に作ってみたいアイデアあったら、気軽に声かけてね〜！  
+「これどう思う？」ってDMくれるとめっちゃ嬉しいぜ(´・ω・`)
 
-### Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-
-### AI & LLM
-![LangChain](https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF4F00?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-**RAG • Prompt Engineering • LLM Integration • AI Agents • CrewAI**
-
-### Data & Infrastructure
-![PostgreSQL + pgvector](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-00C2A8?style=for-the-badge&logo=pinecone&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-**Vercel • Databricks • EC2 • S3 • Lambda • MQTT • CI/CD**
-
-
-<div align="center">
-  <p><strong>Thanks for visiting my profile ✨</strong></p>
-  <p>I'm always excited to discuss <strong>AI-powered full-stack opportunities</strong> — especially agentic systems, RAG platforms, and production LLM applications.</p>
-  <p>Feel free to reach out — I'm currently open to new roles!</p>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_title=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername
