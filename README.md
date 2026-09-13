@@ -23,18 +23,7 @@
 
 <br clear="left" />
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=honeststack&show_icons=true&hide_border=true&theme=tokyonight"
-  alt="honeststack の GitHub Stats" height="160" />
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=honeststack&layout=compact&hide_border=true&theme=tokyonight"
-  alt="よく使っている言語の割合" height="160" />
-
-</div>
+---
 
 <img src="passion.gif" alt="コードに囲まれて開発している様子" width="533" />
 
