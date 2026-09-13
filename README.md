@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="passion.gif" alt="コードに囲まれて開発している様子" width="533" />
+
 
 <h1>Hello! <img src="hand.gif" alt="" width="30" height="30" /></h1>
 
@@ -35,6 +35,8 @@
   alt="よく使っている言語の割合" height="160" />
 
 </div>
+
+<img src="passion.gif" alt="コードに囲まれて開発している様子" width="533" />
 
 ---
 
